@@ -1,2 +1,2 @@
 # data-structure-manabi
-Learn data structure.
+Learn data structure by Java.
